@@ -1,3 +1,6 @@
 File creato, perchè voglio capire il commando git commit, se funziona senza il messaggio.
 
 Ora provo a fare un commit molto  lungo, (facendomi aprire la scrittura con l'interfaccia come con vim)
+
+provo a fare una modifica in due file... ma usando git add solo su uno dei due file,
+per capire se la modifica me la fa solo su uno come mi aspetto
