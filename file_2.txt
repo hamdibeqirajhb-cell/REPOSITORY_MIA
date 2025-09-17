@@ -8,3 +8,6 @@ per capire se la modifica me la fa solo su uno come mi aspetto
 modifico anche il file_2, e provo a usare il commit dell'interfaccia
 
 e git add .\ , chi me lo fa??
+
+
+ora provo a fare un altra modifica su file 2
