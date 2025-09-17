@@ -1,0 +1,1 @@
+File creato, perchè voglio capire il commando git commit, se funziona senza il messaggio.
