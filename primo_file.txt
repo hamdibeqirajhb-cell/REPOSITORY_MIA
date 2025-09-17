@@ -2,3 +2,5 @@ Scrittura sul file
 
 prima modifica su primo_file.txt, vediamo se mi prende anche qui la modifica
 se uso git add solo su file_2.txt
+
+faccio le modifiche e le mando su github tramite l'interfaccia

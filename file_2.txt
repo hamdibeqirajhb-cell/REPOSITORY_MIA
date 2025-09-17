@@ -4,3 +4,7 @@ Ora provo a fare un commit molto  lungo, (facendomi aprire la scrittura con l'in
 
 provo a fare una modifica in due file... ma usando git add solo su uno dei due file,
 per capire se la modifica me la fa solo su uno come mi aspetto
+
+modifico anche il file_2, e provo a usare il commit dell'interfaccia
+
+e git add .\ , chi me lo fa??
